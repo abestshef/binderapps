@@ -50,7 +50,6 @@ Pygments==2.11.2
 pyparsing==3.0.7
 pyrsistent==0.18.0
 python-dateutil==2.8.2
-pywinpty==1.1.6
 pyzmq==22.3.0
 scipy==1.5.4
 Send2Trash==1.8.0

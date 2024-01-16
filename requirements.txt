@@ -51,7 +51,6 @@ pycparser==2.21
 Pygments==2.11.2
 pyparsing==3.0.7
 pyrsistent==0.18.0
-python==3.10
 python-dateutil==2.8.2
 pyzmq==22.3.0
 scipy==1.5.4
